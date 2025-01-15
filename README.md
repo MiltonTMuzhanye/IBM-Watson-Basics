@@ -1,1 +1,2 @@
 # IBM-Watson-Basics
+This project explores data related to Tesla and GameStop stocks. It starts by extracting Tesla stock data (Question 1) and revenue data (Question 2) from online sources. In Question 3, the Tesla stock and revenue data are combined for better analysis. Question 4 extracts GameStop's revenue data, cleans it, and prepares it for visualization. Question 5 plots Tesla's stock price and revenue trends up to June 2021, while Question 6 does the same for GameStop
